@@ -106,7 +106,7 @@ Low-voltage analog design · folded cascode · Miller compensation and phase mar
 
 ## Related
 
-[CMOS Two-Stage Op-Amp](https://github.com/contactmishra/cmos-two-stage-opamp): the first project in the course, a classic two-stage op-amp on ±2.5 V.
+[CMOS Two-Stage Op-Amp](https://github.com/theommishra-dev/cmos-two-stage-opamp): the first project in the course, a classic two-stage op-amp on ±2.5 V.
 
 ---
 
